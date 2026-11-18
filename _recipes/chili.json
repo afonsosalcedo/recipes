@@ -1,0 +1,53 @@
+{
+  "slug": "chili",
+  "name": "Smoky Mole-Style Three-Bean Chili with Crumbled Tofu",
+  "description": "One-pot stovetop chili with browned tofu and a touch of cocoa, served over Instant Pot brown rice.",
+  "yield": "6 servings",
+  "prepTime": "PT20M",
+  "cookTime": "PT55M",
+  "cuisine": "Tex-Mex",
+  "protein": "50 g",
+  "tags": ["Vegetarian", "Ginger-free"],
+  "ingredients": [
+    "420 g brown rice, dry",
+    "680 ml water, for the rice",
+    "900 g super firm tofu (2 blocks)",
+    "30 ml low-sodium soy sauce (plain, no ginger)",
+    "65 ml extra virgin olive oil",
+    "3 yellow onions, diced",
+    "3 carrots, diced",
+    "6 frozen peeled garlic cloves, minced",
+    "50 g tomato paste",
+    "3 tsp ground cumin",
+    "3 tsp smoked paprika",
+    "1½ tsp ground coriander",
+    "1½ tsp dried oregano",
+    "¾ tsp chili flakes",
+    "1½ tbsp Dutch cocoa powder",
+    "3 cans kidney beans (15.5 oz each), drained and rinsed",
+    "2 cans black beans (15.5 oz each), drained and rinsed",
+    "3 cans diced tomatoes (400 g each)",
+    "450 g frozen fire-roasted peppers and onions",
+    "220 g frozen fire-roasted corn",
+    "540 ml water, for the chili",
+    "1½ tsp vegetable Better Than Bouillon",
+    "1½ tsp salt",
+    "1 lemon, juiced",
+    "300 g plain whole milk Greek yogurt",
+    "Optional: 2 avocados, sliced"
+  ],
+  "steps": [
+    ["Prep", "Dice the onions and carrots. Mince the garlic. Drain and rinse the kidney and black beans. Pat the tofu dry and crumble it by hand into pea-sized bits. Measure the cumin, smoked paprika, coriander, oregano, chili flakes and cocoa into one small bowl. Juice the lemon."],
+    ["Start the rice", "Rinse the brown rice and add it to the Instant Pot with 680 ml water and a pinch of salt. Pressure cook on High for 22 minutes, then let it release naturally for 10 minutes."],
+    ["Brown the tofu", "In a large pot that holds at least 6 liters, heat 45 ml of the olive oil over medium-high. Brown the tofu in two batches, about 6 minutes per batch, until golden in spots. Return all the tofu to the pot, splash in the soy sauce and stir until absorbed. Scoop the tofu onto a plate."],
+    ["Soften the vegetables", "Add the remaining 20 ml olive oil, the onions, the carrots and a pinch of salt. Cook for 10 minutes, until the onions turn golden at the edges."],
+    ["Bloom the spices", "Add the garlic, tomato paste and the spice bowl. Stir constantly for 90 seconds, until the paste darkens and smells toasty. Keep it moving so the cocoa doesn't scorch."],
+    ["Simmer", "Add the diced tomatoes, kidney beans, black beans, frozen peppers and onions, corn, 540 ml water, bouillon, the rest of the salt and the tofu. Bring to a boil, then simmer gently, partly covered, for 30 minutes, stirring now and then. Mash some beans against the side of the pot to thicken. Add a splash of water if it gets too thick."],
+    ["Finish and serve", "Stir in the lemon juice and taste for salt. Serve over the brown rice with a spoonful of Greek yogurt, plus sliced avocado if using."]
+  ],
+  "notes": [
+    "Start the rice first. The full Instant Pot cycle runs about 45 minutes, so it lands around the same time as the chili.",
+    "Standouts: soluble fiber from three beans, calcium from the tofu and yogurt, and vitamin C from the tomatoes, peppers and lemon to help absorb the iron.",
+    "Keeps 4 days and tastes better on day two. A pinch of cinnamon with the cocoa pushes it further toward mole."
+  ]
+}
