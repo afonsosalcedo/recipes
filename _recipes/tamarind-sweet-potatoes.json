@@ -1,0 +1,51 @@
+{
+  "slug": "tamarind-sweet-potatoes",
+  "name": "Fiery Sweet Potatoes with Tamarind and Lime",
+  "description": "A coconut and chile sweet potato mash under a sour tamarind glaze, finished with chile-toasted pepitas. A homemade chile paste stands in for Thai curry paste, which usually contains galangal.",
+  "yield": "4 servings",
+  "prepTime": "PT15M",
+  "cookTime": "PT75M",
+  "cuisine": "Thai-inspired",
+  "protein": "7 g",
+  "tags": ["Vegetarian", "Ginger-free", "Make-ahead"],
+  "ingredients": [
+    "2 Fresno chiles (chile paste)",
+    "1 garlic clove (chile paste)",
+    "1 small shallot, about 30 g (chile paste)",
+    "1 lemongrass stalk (chile paste)",
+    "½ tsp ground coriander (chile paste)",
+    "¼ tsp ground cumin (chile paste)",
+    "Zest of 1 lime (chile paste)",
+    "5 ml extra virgin olive oil (chile paste)",
+    "Pinch of kosher salt (chile paste)",
+    "900 g sweet potatoes, about 3 medium (mash)",
+    "120 ml full-fat coconut milk (mash)",
+    "30 g unsalted butter (mash)",
+    "¾ tsp kosher salt (mash)",
+    "30 g tamarind pulp, block, seedless if available (glaze)",
+    "30 ml pure maple syrup (glaze)",
+    "15 g unsalted butter (glaze)",
+    "Juice of 1 lime (glaze)",
+    "Pinch of kosher salt (glaze)",
+    "45 g raw pepitas (topping)",
+    "5 ml extra virgin olive oil (topping)",
+    "¼ tsp red pepper flakes (topping)",
+    "Optional: cilantro leaves (garnish)"
+  ],
+  "steps": [
+    ["Prep", "Scrub and prick the sweet potatoes. Stem the chiles (seed one for milder heat). Peel the garlic and shallot. Use only the tender inner part of the lemongrass, thinly sliced. Zest the lime, then juice it. Pick cilantro leaves if using."],
+    ["Bake the potatoes", "Heat the oven to 400°F. Bake the sweet potatoes on a foil-lined sheet pan until completely soft, 60 to 75 minutes. Cool slightly and peel."],
+    ["Chile paste", "Blend or pound the chiles, garlic, shallot, lemongrass, coriander, cumin, lime zest, oil and salt until mostly smooth. Warm the paste in a small saucepan for 1 minute, add the coconut milk and simmer for 3 minutes."],
+    ["Mash", "Mash the potatoes with the coconut mixture, butter and salt. Taste for heat and salt. Spread in a 20 cm square baking dish. It keeps in the fridge for a day at this point."],
+    ["Pepitas", "Toast the pepitas in the oil over medium heat until they pop and brown, 3 to 4 minutes. Toss with the pepper flakes and a pinch of salt."],
+    ["Glaze", "Warm the tamarind, maple syrup, butter, lime juice and salt in a small pan, stirring until glossy, about 2 minutes. Press through a strainer to remove seeds and fiber."],
+    ["Bake and broil", "Cover with foil and bake at 400°F until hot, 15 to 20 minutes (25 minutes if chilled). Uncover, brush with the glaze and broil for 2 to 4 minutes, watching closely, until it bubbles and darkens at the edges."],
+    ["Finish", "Scatter the pepitas, a little extra lime zest and the cilantro over the top just before serving."]
+  ],
+  "notes": [
+    "Swaps (only if needed; don't buy both): 15 g tamarind concentrate instead of 30 g pulp. It is much stronger and needs no straining. Use 1 Fresno chile instead of 2 for a milder dish.",
+    "Standouts: vitamin A, fiber, and magnesium and zinc from the pepitas.",
+    "Nutrition note: the glaze uses 30 ml maple syrup and the mash uses coconut milk, both kept to a minimum under the house rules. That works out to about 7 ml of syrup per serving. For everyday cooking, halve the syrup and swap the coconut milk for Greek yogurt stirred in off the heat.",
+    "Test notes: Is the tamarind sour enough to stand out? Is the heat right for the whole table?"
+  ]
+}
