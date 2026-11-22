@@ -1,0 +1,53 @@
+{
+  "slug": "mushroom-wellington",
+  "name": "Miso-Chestnut Mushroom Wellington",
+  "description": "White miso gives the mushrooms a deep, savory, almost meaty flavor, and roasted chestnuts add sweetness and bite. Kept at full size on purpose: a smaller log bakes differently. The filling can be made 2 days ahead.",
+  "yield": "6 to 8 servings",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
+  "cuisine": "British",
+  "protein": "10 g",
+  "tags": ["Vegetarian", "Make-ahead", "Holiday"],
+  "ingredients": [
+    "4 large portobello mushrooms, about 250 g (core and filling)",
+    "75 ml extra virgin olive oil, divided (core and filling)",
+    "900 g mixed mushrooms: shiitake, oyster, cremini (core and filling)",
+    "30 g unsalted butter (core and filling)",
+    "4 shallots, about 150 g (core and filling)",
+    "5 garlic cloves (core and filling)",
+    "1 tbsp chopped fresh rosemary (core and filling)",
+    "1 tbsp fresh thyme leaves (core and filling)",
+    "80 ml dry sherry (core and filling)",
+    "35 g white miso (core and filling)",
+    "140 g roasted peeled chestnuts (core and filling)",
+    "Kosher salt (core and filling)",
+    "Black pepper (core and filling)",
+    "400 g all-butter puff pastry, thawed in the fridge (pastry)",
+    "Flour, for dusting (pastry)",
+    "1 large egg (pastry)",
+    "Flaky salt (pastry)",
+    "30 g unsalted butter (miso gravy)",
+    "1 shallot (miso gravy)",
+    "1 garlic clove (miso gravy)",
+    "16 g flour, 2 tbsp (miso gravy)",
+    "360 ml low-sodium vegetable stock (miso gravy)",
+    "1 tsp white miso (miso gravy)",
+    "1 tsp fresh thyme leaves (miso gravy)",
+    "15 ml dry sherry (miso gravy)"
+  ],
+  "steps": [
+    ["Prep", "Remove the portobello stems and scrape out the gills. Trim the mixed mushrooms and pulse them in a food processor, in batches, until lentil-sized. Finely chop the 4 shallots and 5 garlic cloves; mince the gravy shallot and garlic separately. Roughly chop the chestnuts. Beat the egg with 1 tsp water."],
+    ["Roast the portobellos", "Heat the oven to 425°F. Rub the caps with 30 ml oil, season, and roast gill side down for 15 to 20 minutes, until tender. Drain on paper towels and cool."],
+    ["Cook the filling", "Heat the remaining 45 ml oil and the butter in a large skillet over medium-high. Cook the shallots and garlic for 2 minutes. Add the chopped mushrooms, herbs and ¾ tsp salt. Cook, stirring, until the liquid is gone and the mixture starts to stick, 20 to 25 minutes. A dry filling keeps the bottom crust crisp."],
+    ["Finish the filling", "Add the sherry and cook until the pan is dry again, about 2 minutes. Off the heat, stir in the miso and chestnuts and season with pepper. Cool completely, then chill (overnight is fine)."],
+    ["Assemble", "Roll the pastry on a floured surface to about 30 by 35 cm. Spread half the filling down the center in a log about 10 cm wide. Line the portobellos along it, overlapping, and pack the rest of the filling over them. Fold the pastry over, brush the edge with egg and seal. Set it seam side down on a parchment-lined sheet pan, tuck the ends under, and chill for 20 minutes."],
+    ["Bake", "Heat the oven to 400°F. Brush with egg, score a shallow crosshatch and sprinkle with flaky salt. Bake for 40 to 45 minutes, until deep golden. Rest for 10 minutes and slice with a serrated knife."],
+    ["Gravy", "Melt the butter in a small saucepan. Cook the shallot and garlic for 2 minutes, stir in the flour, then slowly whisk in the stock. Simmer for 5 minutes, until it coats a spoon. Whisk in the miso, thyme and sherry."]
+  ],
+  "notes": [
+    "Swaps (only if needed; don't buy both): port instead of dry sherry, same amount, slightly sweeter. Or 15 ml aged balsamic vinegar instead of the 80 ml sherry in the filling.",
+    "Standouts: B vitamins, selenium and potassium from the mushrooms.",
+    "Ginger check: read the labels on the miso and the vegetable stock, since a few brands add ginger.",
+    "Test notes: Is the bottom crust crisp? Does the miso read as savory or as salty?"
+  ]
+}
