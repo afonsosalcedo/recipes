@@ -1,0 +1,53 @@
+{
+  "slug": "miso-gravy",
+  "name": "Miso Gravy (Triple Batch)",
+  "description": "The gravy from the Miso-Chestnut Mushroom Wellington, tripled so there is enough for the Wellington, biscuits and turkey, plus leftovers.",
+  "yield": "About 1.1 liters",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "cuisine": "British",
+  "protein": "About 1 g per 100 ml",
+  "tags": [
+    "Vegetarian",
+    "Make-ahead",
+    "Holiday"
+  ],
+  "ingredients": [
+    "90 g unsalted butter",
+    "3 shallots",
+    "3 garlic cloves",
+    "48 g flour, 6 tbsp",
+    "1.1 liters low-sodium vegetable stock, plus a splash for reheating",
+    "1 tbsp white miso",
+    "1 tbsp fresh thyme leaves",
+    "45 ml dry sherry"
+  ],
+  "steps": [
+    [
+      "Prep",
+      "Finely chop the shallots and mince the garlic. Strip the thyme leaves. Whisk the miso into the sherry so it dissolves without lumps."
+    ],
+    [
+      "Roux",
+      "Melt the butter in a medium saucepan over medium heat. Cook the shallots and garlic for 2 to 3 minutes, until soft. Stir in the flour and cook for 1 minute."
+    ],
+    [
+      "Stock",
+      "Slowly whisk in the stock, a ladle at a time at first so no lumps form. Bring to a simmer and cook, whisking now and then, for 8 to 10 minutes, until it coats a spoon."
+    ],
+    [
+      "Finish",
+      "Off the heat, whisk in the miso-sherry mix and the thyme. Taste; the miso brings enough salt for most people."
+    ],
+    [
+      "Reheat",
+      "To serve after chilling, rewarm over low heat for about 10 minutes, whisking in a splash of stock, since it thickens a lot in the fridge."
+    ]
+  ],
+  "notes": [
+    "Swaps (only if needed; don't buy both): port instead of dry sherry, same amount.",
+    "Make ahead: keeps 4 days in the fridge, or freeze for up to 3 months. Whisk well when reheating.",
+    "Shopping: one 32 oz (946 ml) carton of stock isn't enough. Buy two cartons, or a 1.5 liter one.",
+    "Ginger check: read the labels on the miso and the vegetable stock."
+  ]
+}
